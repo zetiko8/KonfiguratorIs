@@ -30,5 +30,5 @@ $ npm install
 $ nodemon bin/www
 
 # Dependencies
-[Vue](https://vuejs.org/), knjižnica za databinding.
-jQuerry
+- [Vue](https://vuejs.org/), knjižnica za databinding.
+- jQuerry
